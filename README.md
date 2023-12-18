@@ -4,10 +4,6 @@
 
 ##
 
-<div>
-  <img heigth="180em" src="https://github-readme-stats-rebecamorais.vercel.app/api/?username=rebecamorais&theme=radical&include_all_commits=true&count_private=true" />   
-  <img heigth="180em" src="https://github-readme-stats-rebecamorais.vercel.app/api/top-langs/?username=rebecamorais&theme=radical&layout=compact&lang_count=10&include_all_commits=true&count_private=true" /> 
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
