@@ -6,17 +6,7 @@
 
 ---
 
-## Hi there | Olá 👋 I'm Rebeca Morais
-
-**Lead Software Engineer | Foco em Backend & Sistemas Distribuídos**
-
-Focada em construir serviços confiáveis e observáveis com **Node.js, TypeScript e AWS**. Tenho cerca de ~7 anos de experiência escalando plataformas, reduzindo custos de infraestrutura e acelerando ciclos de entrega.
-
-- 🛠 **Foco atual:** Modernização de plataformas (monólitos para microsserviços) e cultura de observabilidade.
-- 📈 **Impacto:** Reduzi o tempo de CI/CD em 50% e eliminei mais de 1 bilhão de requisições desnecessárias por mês.
-- 🌙 **Curiosidade:** Leitora voraz de tecnologia (às vezes até tarde demais!).
-
----
+# Hi there | Olá 👋 I'm Rebeca Morais
 
 ### 🛠 Stack Técnica & Domínios
 
@@ -36,8 +26,7 @@ Focada em construir serviços confiáveis e observáveis com **Node.js, TypeScri
 
 ### 🏠 Hubs
 
-- 📖 **[Tech Hub (rebecamorais.github.io)](https://rebecamorais.github.io)** — Tutoriais e Glossário Técnico.
-- 🌐 **[rebs.com.br](https://rebs.com.br)** — Meu portfólio pessoal e contato.
+- 🌐 **[rebs.com.br](https://rebs.com.br)** — Um pouco sobre mim.
 
 ### 📫 Conecte-se comigo
 
