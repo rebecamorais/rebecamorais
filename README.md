@@ -13,7 +13,10 @@
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
 </div>
@@ -23,6 +26,17 @@
 - **Arquitetura:** SOLID, Clean Code, Event-Driven Design e Microsserviços.
 
 ---
+
+### 🎲 Projetos
+
+**[RPG World](https://rpgworldapp.com)**: fichas de D&D 5e no navegador, com mesas, combate em tempo real, grimório do SRD e inventário, em português e inglês. Gratuito e open source (GPLv3), feito com Next.js e Supabase.
+
+<div style="display: inline_block"><br>
+  <a href="https://rpgworldapp.com/demo"> <img src="https://img.shields.io/badge/Demo-7C3AED?style=for-the-badge&logo=dungeonsanddragons&logoColor=white"/> </a>
+  <a href="https://github.com/rebecamorais/rpg-world"> <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+  <a href="https://github.com/users/rebecamorais/projects/1"> <img src="https://img.shields.io/badge/Roadmap-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+  <a href="https://discord.com/invite/7u6guShqhQ"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a>
+</div>
 
 ### 🏠 Hubs
 
